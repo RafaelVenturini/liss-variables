@@ -1,0 +1,16 @@
+{
+  "fitness": {
+    "minimal": {
+      "normal": { "whatsapp": 700, "site": 675 },
+      "reduced": { "whatsapp": null, "site": null }
+    },
+    "benefits": {
+      "super": { "un_qnty": 100, "un_discount": 4 },
+      "free_shipping_at": 2000,
+      "reposition_days": 15,
+      "card_installments": 3
+    }
+  },
+  "fashion": {},
+  "general": {}
+}
